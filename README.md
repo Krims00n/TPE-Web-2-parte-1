@@ -2,5 +2,5 @@
 
 -Integrantes: Martina Gonzalez(martinagm011@gmail.com), Bruno Bianchi(bmpc905@gmail.com).
 -Tematica : Argentina.
--Descripcion : La pagina se va a tratar de las provincias que componen la Argentina.
+-Descripcion : La pagina se va a tratar de las provincias y las ciudades que componen la Argentina.
 
