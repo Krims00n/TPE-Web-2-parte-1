@@ -13,6 +13,6 @@ Despliegue del sitio
 -Ingresar al sitio desde el navegador en:
   http://localhost/TPEParteII/index.php
   
-Usuario Administrador
-Usuario: webadmin
+Usuario Administrador |
+Usuario: webadmin |
 Contraseña: admin
